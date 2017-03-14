@@ -96,4 +96,4 @@ gulp.task('bowerBuild', ['bower'], function(){
 
 gulp.task('htmlBuild', function() {
   browserSync.reload();
-}); 
+});
