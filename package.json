@@ -20,5 +20,16 @@
     "jshint": "^2.9.4",
     "vinyl-source-stream": "^1.1.0"
   },
-  "description": "alarm app"
+  "description": "alarm app",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhchan11/alarm-bower.git"
+  },
+  "bugs": {
+    "url": "https://github.com/minhchan11/alarm-bower/issues"
+  },
+  "homepage": "https://github.com/minhchan11/alarm-bower#readme"
 }
